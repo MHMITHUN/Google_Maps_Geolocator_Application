@@ -22,7 +22,9 @@ This Flutter application integrates Google Maps and the Geolocator plugin to tra
 
 ### Setup
 1. **Clone the repository:**
-git clone https://github.com/yourgithub/flutter-google-maps-geolocator.git
+
+   ```bash
+   git clone https://github.com/yourgithub/flutter-google-maps-geolocator.git
 
 2. **Install dependencies:**
 cd flutter-google-maps-geolocator flutter pub get
